@@ -1,4 +1,4 @@
 <?php
-// Este es un programa simple PHP que imprime "Hola Mundo"
+// Este es un programa PHP que imprime "Hola Mundo"
 echo "Hola Mundo";
 ?>
